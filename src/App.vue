@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  Hello
+  Hello ACCESS_TOKEN
 </template>
 
 <style>
