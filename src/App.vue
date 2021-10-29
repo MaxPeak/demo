@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  Hello World
+  Hello
 </template>
 
 <style>
