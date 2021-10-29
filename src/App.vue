@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  app
+  Hello World
 </template>
 
 <style>
